@@ -18,7 +18,7 @@ with optional `ffmpeg` support for best quality downloads and format conversion.
 
 - Python 3.6+
 - [`yt_dlp`](https://github.com/yt-dlp/yt-dlp)
-- [`ffmpeg`](https://ffmpeg.org/)(download it from the OFFICIAL WEBSITE)*(required for best quality)*
+- [`ffmpeg`](https://ffmpeg.org/)(download it from the **OFFICIAL WEBSITE**)*(required for best quality)*
 
 
 This project uses the following open-source tools:
