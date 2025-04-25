@@ -33,7 +33,8 @@ This project uses the following open-source tools:
 ## The purpose and the future of the project
 
 This tool was intended for my personal use, so I will probably try to keep the code functional with the upcoming versions and changes of yt-dlp and ffmpeg. 
-I also plan to add GUI into this project, but for now it will remain a command-line based tool.
+I also plan to add GUI into this project and add an exe file for easier use, but for now it will remain a command-line based tool.
+
 
 ## Disclaimer
 
